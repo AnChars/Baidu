@@ -1,0 +1,6 @@
+framework module Pods_BaiduGuoTingZhenXiANUITests {
+  umbrella header "Pods-BaiduGuoTingZhenXiANUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
